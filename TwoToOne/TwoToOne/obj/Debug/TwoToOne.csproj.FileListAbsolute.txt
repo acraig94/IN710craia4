@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\TwoToOne\TwoToOne\bin\Debug\TwoToOne.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\TwoToOne\TwoToOne\bin\Debug\TwoToOne.exe
+c:\users\alan\documents\visual studio 2015\Projects\TwoToOne\TwoToOne\bin\Debug\TwoToOne.pdb
+c:\users\alan\documents\visual studio 2015\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.Form1.resources
+c:\users\alan\documents\visual studio 2015\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2015\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.csproj.GenerateResource.Cache
+c:\users\alan\documents\visual studio 2015\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.exe
+c:\users\alan\documents\visual studio 2015\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.pdb
