@@ -1,0 +1,6 @@
+c:\users\alan\documents\visual studio 2015\Projects\bridgeTest\bridgeTest\bin\Debug\bridgeTest.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\bridgeTest\bridgeTest\bin\Debug\bridgeTest.exe
+c:\users\alan\documents\visual studio 2015\Projects\bridgeTest\bridgeTest\bin\Debug\bridgeTest.pdb
+c:\users\alan\documents\visual studio 2015\Projects\bridgeTest\bridgeTest\obj\Debug\bridgeTest.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\bridgeTest\bridgeTest\obj\Debug\bridgeTest.exe
+c:\users\alan\documents\visual studio 2015\Projects\bridgeTest\bridgeTest\obj\Debug\bridgeTest.pdb
