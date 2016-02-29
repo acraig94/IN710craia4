@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\Best Movie Database\Best Movie Database\bin\Debug\Best Movie Database.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\Best Movie Database\Best Movie Database\bin\Debug\Best Movie Database.exe
+c:\users\alan\documents\visual studio 2015\Projects\Best Movie Database\Best Movie Database\bin\Debug\Best Movie Database.pdb
+c:\users\alan\documents\visual studio 2015\Projects\Best Movie Database\Best Movie Database\obj\Debug\Best Movie Database.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\Best Movie Database\Best Movie Database\obj\Debug\Best_Movie_Database.Form1.resources
+c:\users\alan\documents\visual studio 2015\Projects\Best Movie Database\Best Movie Database\obj\Debug\Best_Movie_Database.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2015\Projects\Best Movie Database\Best Movie Database\obj\Debug\Best Movie Database.csproj.GenerateResource.Cache
+c:\users\alan\documents\visual studio 2015\Projects\Best Movie Database\Best Movie Database\obj\Debug\Best Movie Database.exe
+c:\users\alan\documents\visual studio 2015\Projects\Best Movie Database\Best Movie Database\obj\Debug\Best Movie Database.pdb
