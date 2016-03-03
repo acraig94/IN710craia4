@@ -107,18 +107,39 @@ namespace RainbowChicken2016
         {
 
             Pellet pelletWalker = headPointer;
-            
+            // if first pellet isnt the one to delete
             if (pelletWalker != pelletToDelete)
             {
                 while (pelletWalker.Next != pelletToDelete)
                 {
                     pelletWalker = pelletWalker.Next;
                 }
-                pelletWalker.Next = pelletToDelete.Next;
+                // if the pellet to delete is the last one
+                if (pelletWalker.Next == tailPointer)
+                {
+                    tailPointer = pelletWalker;
+                }
+                // pellet anywhere in between
+                else
+                {
+                    pelletWalker.Next = pelletToDelete.Next;
+                }
             }
+
             else
-                headPointer = pelletWalker.Next;
-            
+            {
+                // if the pellet to delete is the only pellet in the list
+                if (headPointer == tailPointer)
+                {
+                    headPointer = null;
+                    tailPointer = null;
+                }
+                // if pellet is the first in list
+                else
+                {
+                    headPointer = pelletWalker.Next;
+                }
+            }
 
             //throw new NotImplementedException();
         }
