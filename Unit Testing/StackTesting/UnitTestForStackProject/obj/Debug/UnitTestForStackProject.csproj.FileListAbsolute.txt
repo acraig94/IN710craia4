@@ -1,0 +1,8 @@
+c:\users\alan\documents\visual studio 2015\Projects\StackTesting\UnitTestForStackProject\bin\Debug\UnitTestForStackProject.dll
+c:\users\alan\documents\visual studio 2015\Projects\StackTesting\UnitTestForStackProject\bin\Debug\UnitTestForStackProject.pdb
+c:\users\alan\documents\visual studio 2015\Projects\StackTesting\UnitTestForStackProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\alan\documents\visual studio 2015\Projects\StackTesting\UnitTestForStackProject\bin\Debug\StackTesting.exe
+c:\users\alan\documents\visual studio 2015\Projects\StackTesting\UnitTestForStackProject\bin\Debug\StackTesting.pdb
+c:\users\alan\documents\visual studio 2015\Projects\StackTesting\UnitTestForStackProject\obj\Debug\UnitTestForStackProject.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\StackTesting\UnitTestForStackProject\obj\Debug\UnitTestForStackProject.dll
+c:\users\alan\documents\visual studio 2015\Projects\StackTesting\UnitTestForStackProject\obj\Debug\UnitTestForStackProject.pdb
