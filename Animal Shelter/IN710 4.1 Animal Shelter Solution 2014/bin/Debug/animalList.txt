@@ -1,0 +1,16 @@
+Spike,Cat
+Blaze,Dog
+Gunther,Dog
+Blinky,Cat
+Cinder,Rabbit
+Oakheart,Duck
+Petal,Duck
+Cookie,Cat
+Petra,Duck
+Fafnir,Dog
+Steve,Dog
+Buttercup,Rabbit
+Furby,Rabbit
+Mickey,Cat
+Nemo,Duck
+Buzby, Duck
