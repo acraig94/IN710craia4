@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.Form1.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.pdb
