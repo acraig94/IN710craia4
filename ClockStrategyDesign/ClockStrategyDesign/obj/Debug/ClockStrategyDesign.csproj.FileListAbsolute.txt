@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\ClockStrategyDesign\ClockStrategyDesign\bin\Debug\ClockStrategyDesign.exe.config
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\ClockStrategyDesign\ClockStrategyDesign\bin\Debug\ClockStrategyDesign.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\ClockStrategyDesign\ClockStrategyDesign\bin\Debug\ClockStrategyDesign.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\ClockStrategyDesign\ClockStrategyDesign\obj\Debug\ClockStrategyDesign.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\ClockStrategyDesign\ClockStrategyDesign\obj\Debug\ClockStrategyDesign.Form1.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\ClockStrategyDesign\ClockStrategyDesign\obj\Debug\ClockStrategyDesign.Properties.Resources.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\ClockStrategyDesign\ClockStrategyDesign\obj\Debug\ClockStrategyDesign.csproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\ClockStrategyDesign\ClockStrategyDesign\obj\Debug\ClockStrategyDesign.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\ClockStrategyDesign\ClockStrategyDesign\obj\Debug\ClockStrategyDesign.pdb
