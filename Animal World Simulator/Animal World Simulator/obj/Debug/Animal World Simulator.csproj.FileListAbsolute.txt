@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\Animal World Simulator\Animal World Simulator\bin\Debug\Animal World Simulator.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\Animal World Simulator\Animal World Simulator\bin\Debug\Animal World Simulator.exe
+c:\users\alan\documents\visual studio 2015\Projects\Animal World Simulator\Animal World Simulator\bin\Debug\Animal World Simulator.pdb
+c:\users\alan\documents\visual studio 2015\Projects\Animal World Simulator\Animal World Simulator\obj\Debug\Animal World Simulator.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\Animal World Simulator\Animal World Simulator\obj\Debug\Animal_World_Simulator.Form1.resources
+c:\users\alan\documents\visual studio 2015\Projects\Animal World Simulator\Animal World Simulator\obj\Debug\Animal_World_Simulator.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2015\Projects\Animal World Simulator\Animal World Simulator\obj\Debug\Animal World Simulator.csproj.GenerateResource.Cache
+c:\users\alan\documents\visual studio 2015\Projects\Animal World Simulator\Animal World Simulator\obj\Debug\Animal World Simulator.exe
+c:\users\alan\documents\visual studio 2015\Projects\Animal World Simulator\Animal World Simulator\obj\Debug\Animal World Simulator.pdb
