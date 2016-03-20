@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\Mix And Match\Mix And Match\bin\Debug\Mix And Match.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\Mix And Match\Mix And Match\bin\Debug\Mix And Match.exe
+c:\users\alan\documents\visual studio 2015\Projects\Mix And Match\Mix And Match\bin\Debug\Mix And Match.pdb
+c:\users\alan\documents\visual studio 2015\Projects\Mix And Match\Mix And Match\obj\Debug\Mix And Match.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\Mix And Match\Mix And Match\obj\Debug\Mix_And_Match.Form1.resources
+c:\users\alan\documents\visual studio 2015\Projects\Mix And Match\Mix And Match\obj\Debug\Mix_And_Match.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2015\Projects\Mix And Match\Mix And Match\obj\Debug\Mix And Match.csproj.GenerateResource.Cache
+c:\users\alan\documents\visual studio 2015\Projects\Mix And Match\Mix And Match\obj\Debug\Mix And Match.exe
+c:\users\alan\documents\visual studio 2015\Projects\Mix And Match\Mix And Match\obj\Debug\Mix And Match.pdb

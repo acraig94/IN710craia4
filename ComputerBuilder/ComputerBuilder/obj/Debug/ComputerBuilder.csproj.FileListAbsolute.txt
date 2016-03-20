@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\ComputerBuilder\ComputerBuilder\bin\Debug\ComputerBuilder.exe.config
+c:\Users\Alan\Documents\Visual Studio 2015\Projects\ComputerBuilder\ComputerBuilder\bin\Debug\ComputerBuilder.exe
+c:\Users\Alan\Documents\Visual Studio 2015\Projects\ComputerBuilder\ComputerBuilder\bin\Debug\ComputerBuilder.pdb
+c:\Users\Alan\Documents\Visual Studio 2015\Projects\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.csprojResolveAssemblyReference.cache
+c:\Users\Alan\Documents\Visual Studio 2015\Projects\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.Form1.resources
+c:\Users\Alan\Documents\Visual Studio 2015\Projects\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.Properties.Resources.resources
+c:\Users\Alan\Documents\Visual Studio 2015\Projects\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.csproj.GenerateResource.Cache
+c:\Users\Alan\Documents\Visual Studio 2015\Projects\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.exe
+c:\Users\Alan\Documents\Visual Studio 2015\Projects\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.pdb
