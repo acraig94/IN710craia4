@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\Progress Indicator\Progress Indicator\bin\Debug\Progress Indicator.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\Progress Indicator\Progress Indicator\bin\Debug\Progress Indicator.exe
+c:\users\alan\documents\visual studio 2015\Projects\Progress Indicator\Progress Indicator\bin\Debug\Progress Indicator.pdb
+c:\users\alan\documents\visual studio 2015\Projects\Progress Indicator\Progress Indicator\obj\Debug\Progress Indicator.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\Progress Indicator\Progress Indicator\obj\Debug\Progress_Indicator.Form1.resources
+c:\users\alan\documents\visual studio 2015\Projects\Progress Indicator\Progress Indicator\obj\Debug\Progress_Indicator.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2015\Projects\Progress Indicator\Progress Indicator\obj\Debug\Progress Indicator.csproj.GenerateResource.Cache
+c:\users\alan\documents\visual studio 2015\Projects\Progress Indicator\Progress Indicator\obj\Debug\Progress Indicator.exe
+c:\users\alan\documents\visual studio 2015\Projects\Progress Indicator\Progress Indicator\obj\Debug\Progress Indicator.pdb
