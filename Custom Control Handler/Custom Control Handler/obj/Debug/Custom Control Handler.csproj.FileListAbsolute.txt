@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\Custom Control Handler\Custom Control Handler\bin\Debug\Custom Control Handler.exe.config
+C:\Users\Alan\documents\visual studio 2015\Projects\Custom Control Handler\Custom Control Handler\bin\Debug\Custom Control Handler.exe
+C:\Users\Alan\documents\visual studio 2015\Projects\Custom Control Handler\Custom Control Handler\bin\Debug\Custom Control Handler.pdb
+C:\Users\Alan\documents\visual studio 2015\Projects\Custom Control Handler\Custom Control Handler\obj\Debug\Custom Control Handler.csprojResolveAssemblyReference.cache
+C:\Users\Alan\documents\visual studio 2015\Projects\Custom Control Handler\Custom Control Handler\obj\Debug\Custom_Control_Handler.Form1.resources
+C:\Users\Alan\documents\visual studio 2015\Projects\Custom Control Handler\Custom Control Handler\obj\Debug\Custom_Control_Handler.Properties.Resources.resources
+C:\Users\Alan\documents\visual studio 2015\Projects\Custom Control Handler\Custom Control Handler\obj\Debug\Custom Control Handler.csproj.GenerateResource.Cache
+C:\Users\Alan\documents\visual studio 2015\Projects\Custom Control Handler\Custom Control Handler\obj\Debug\Custom Control Handler.exe
+C:\Users\Alan\documents\visual studio 2015\Projects\Custom Control Handler\Custom Control Handler\obj\Debug\Custom Control Handler.pdb

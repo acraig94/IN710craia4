@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\FireAlarm\FireAlarm\bin\Debug\FireAlarm.exe.config
+C:\Users\Alan\documents\visual studio 2015\Projects\FireAlarm\FireAlarm\bin\Debug\FireAlarm.exe
+C:\Users\Alan\documents\visual studio 2015\Projects\FireAlarm\FireAlarm\bin\Debug\FireAlarm.pdb
+C:\Users\Alan\documents\visual studio 2015\Projects\FireAlarm\FireAlarm\obj\Debug\FireAlarm.csprojResolveAssemblyReference.cache
+C:\Users\Alan\documents\visual studio 2015\Projects\FireAlarm\FireAlarm\obj\Debug\FireAlarm.Form1.resources
+C:\Users\Alan\documents\visual studio 2015\Projects\FireAlarm\FireAlarm\obj\Debug\FireAlarm.Properties.Resources.resources
+C:\Users\Alan\documents\visual studio 2015\Projects\FireAlarm\FireAlarm\obj\Debug\FireAlarm.csproj.GenerateResource.Cache
+C:\Users\Alan\documents\visual studio 2015\Projects\FireAlarm\FireAlarm\obj\Debug\FireAlarm.exe
+C:\Users\Alan\documents\visual studio 2015\Projects\FireAlarm\FireAlarm\obj\Debug\FireAlarm.pdb

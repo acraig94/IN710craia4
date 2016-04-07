@@ -6,3 +6,5 @@ C:\Users\Alan\Google Drive\OOSD\Week 4\Animal Shelter Skeleton\IN710 4.1 Animal 
 C:\Users\Alan\Google Drive\OOSD\Week 4\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710 4.1 Animal Shelter Solution 2014.csproj.GenerateResource.Cache
 C:\Users\Alan\Google Drive\OOSD\Week 4\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710 4.1 Animal Shelter Solution 2014.exe
 C:\Users\Alan\Google Drive\OOSD\Week 4\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710 4.1 Animal Shelter Solution 2014.pdb
+C:\Users\Alan\Documents\GitHub\IN710craia4\Animal Shelter\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710 4.1 Animal Shelter Solution 2014.exe
+C:\Users\Alan\Documents\GitHub\IN710craia4\Animal Shelter\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710 4.1 Animal Shelter Solution 2014.pdb

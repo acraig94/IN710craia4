@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\Progress Reporter Events\Progress Reporter Events\bin\Debug\Progress Reporter Events.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\Progress Reporter Events\Progress Reporter Events\bin\Debug\Progress Reporter Events.exe
+c:\users\alan\documents\visual studio 2015\Projects\Progress Reporter Events\Progress Reporter Events\bin\Debug\Progress Reporter Events.pdb
+c:\users\alan\documents\visual studio 2015\Projects\Progress Reporter Events\Progress Reporter Events\obj\Debug\Progress Reporter Events.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\Progress Reporter Events\Progress Reporter Events\obj\Debug\Progress_Reporter_Events.Form1.resources
+c:\users\alan\documents\visual studio 2015\Projects\Progress Reporter Events\Progress Reporter Events\obj\Debug\Progress_Reporter_Events.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2015\Projects\Progress Reporter Events\Progress Reporter Events\obj\Debug\Progress Reporter Events.csproj.GenerateResource.Cache
+c:\users\alan\documents\visual studio 2015\Projects\Progress Reporter Events\Progress Reporter Events\obj\Debug\Progress Reporter Events.exe
+c:\users\alan\documents\visual studio 2015\Projects\Progress Reporter Events\Progress Reporter Events\obj\Debug\Progress Reporter Events.pdb
