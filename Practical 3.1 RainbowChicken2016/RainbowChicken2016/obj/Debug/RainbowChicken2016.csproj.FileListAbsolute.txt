@@ -42,3 +42,6 @@ C:\Users\Alan\Documents\Visual Studio 2015\Projects\Practical 3.1 RainbowChicken
 C:\Users\Alan\Documents\Visual Studio 2015\Projects\Practical 3.1 RainbowChicken2016\RainbowChicken2016\obj\Debug\RainbowChicken2016.Form1.resources
 C:\Users\Alan\Documents\Visual Studio 2015\Projects\Practical 3.1 RainbowChicken2016\RainbowChicken2016\obj\Debug\RainbowChicken2016.Properties.Resources.resources
 C:\Users\Alan\Documents\Visual Studio 2015\Projects\Practical 3.1 RainbowChicken2016\RainbowChicken2016\obj\Debug\RainbowChicken2016.csproj.GenerateResource.Cache
+C:\Users\Alan\Documents\GitHub\IN710craia4\Practical 3.1 RainbowChicken2016\RainbowChicken2016\bin\Debug\RainbowChicken2016.exe.config
+C:\Users\Alan\Documents\GitHub\IN710craia4\Practical 3.1 RainbowChicken2016\RainbowChicken2016\obj\Debug\RainbowChicken2016.exe
+C:\Users\Alan\Documents\GitHub\IN710craia4\Practical 3.1 RainbowChicken2016\RainbowChicken2016\obj\Debug\RainbowChicken2016.pdb

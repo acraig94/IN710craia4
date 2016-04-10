@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\PetrolBot\PetrolBot\bin\Debug\PetrolBot.exe.config
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\PetrolBot\PetrolBot\bin\Debug\PetrolBot.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\PetrolBot\PetrolBot\bin\Debug\PetrolBot.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\PetrolBot\PetrolBot\obj\Debug\PetrolBot.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\PetrolBot\PetrolBot\obj\Debug\PetrolBot.Form1.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\PetrolBot\PetrolBot\obj\Debug\PetrolBot.Properties.Resources.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\PetrolBot\PetrolBot\obj\Debug\PetrolBot.csproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\PetrolBot\PetrolBot\obj\Debug\PetrolBot.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\PetrolBot\PetrolBot\obj\Debug\PetrolBot.pdb
