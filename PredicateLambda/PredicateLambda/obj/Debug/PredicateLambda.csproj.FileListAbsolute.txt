@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\PredicateLambda\PredicateLambda\bin\Debug\PredicateLambda.exe.config
+C:\Users\Alan\documents\visual studio 2015\Projects\PredicateLambda\PredicateLambda\bin\Debug\PredicateLambda.exe
+C:\Users\Alan\documents\visual studio 2015\Projects\PredicateLambda\PredicateLambda\bin\Debug\PredicateLambda.pdb
+C:\Users\Alan\documents\visual studio 2015\Projects\PredicateLambda\PredicateLambda\obj\Debug\PredicateLambda.csprojResolveAssemblyReference.cache
+C:\Users\Alan\documents\visual studio 2015\Projects\PredicateLambda\PredicateLambda\obj\Debug\PredicateLambda.Form1.resources
+C:\Users\Alan\documents\visual studio 2015\Projects\PredicateLambda\PredicateLambda\obj\Debug\PredicateLambda.Properties.Resources.resources
+C:\Users\Alan\documents\visual studio 2015\Projects\PredicateLambda\PredicateLambda\obj\Debug\PredicateLambda.csproj.GenerateResource.Cache
+C:\Users\Alan\documents\visual studio 2015\Projects\PredicateLambda\PredicateLambda\obj\Debug\PredicateLambda.exe
+C:\Users\Alan\documents\visual studio 2015\Projects\PredicateLambda\PredicateLambda\obj\Debug\PredicateLambda.pdb
