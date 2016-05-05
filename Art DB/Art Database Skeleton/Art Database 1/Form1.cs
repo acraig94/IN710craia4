@@ -110,8 +110,11 @@ namespace Art_Database_1
             //                     select new { p.Title, p.Year };
             var oldestPainting = paintings
                                 .Where(p => p.Year == paintings.Min(x => x.Year))
-                                .Select(p => new {p.Title, p.Year }); 
-            listBox1.Items.Add(oldestPainting.First().Title + "\t\t" + oldestPainting.First().Year);
+                                .Select(p => new {p.Title, p.Year });
+            foreach (var p in oldestPainting)
+            {
+                listBox1.Items.Add(p.Title + "\t\t" + p.Year);
+            }            
         }
 
         //------------------------------------------------------
