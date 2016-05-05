@@ -105,9 +105,12 @@ namespace Art_Database_1
         private void btnOldest_Click(object sender, EventArgs e)
         {
             listBox1.Items.Clear();
-            var oldestPainting = from p in paintings
-                                 orderby p.Year
-                                 select new { p.Title, p.Year };
+            //var oldestPainting = from p in paintings
+            //                     orderby p.Year
+            //                     select new { p.Title, p.Year };
+            var oldestPainting = paintings
+                                .Where(p => p.Year == paintings.Min(x => x.Year))
+                                .Select(p => new {p.Title, p.Year }); 
             listBox1.Items.Add(oldestPainting.First().Title + "\t\t" + oldestPainting.First().Year);
         }
 
