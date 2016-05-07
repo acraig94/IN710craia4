@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\ORM-Linq\ORM-Linq\bin\Debug\ORM-Linq.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\ORM-Linq\ORM-Linq\bin\Debug\ORM-Linq.exe
+c:\users\alan\documents\visual studio 2015\Projects\ORM-Linq\ORM-Linq\bin\Debug\ORM-Linq.pdb
+c:\users\alan\documents\visual studio 2015\Projects\ORM-Linq\ORM-Linq\obj\Debug\ORM-Linq.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\ORM-Linq\ORM-Linq\obj\Debug\ORM_Linq.Form1.resources
+c:\users\alan\documents\visual studio 2015\Projects\ORM-Linq\ORM-Linq\obj\Debug\ORM_Linq.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2015\Projects\ORM-Linq\ORM-Linq\obj\Debug\ORM-Linq.csproj.GenerateResource.Cache
+c:\users\alan\documents\visual studio 2015\Projects\ORM-Linq\ORM-Linq\obj\Debug\ORM-Linq.exe
+c:\users\alan\documents\visual studio 2015\Projects\ORM-Linq\ORM-Linq\obj\Debug\ORM-Linq.pdb

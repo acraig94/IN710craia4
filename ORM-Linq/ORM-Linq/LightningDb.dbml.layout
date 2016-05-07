@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LightningDb">
+  <DataContextMoniker Name="/LightningDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="1d188979-0a55-46aa-bd9b-82785c8c2e88" absoluteBounds="0.75, 3.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/LightningDbDataContext/tblFire" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3bf5ef50-762d-4c85-bd90-8c1c704c5e8c" absoluteBounds="0.765, 4.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6d33be4e-a2f1-45cd-a451-5434b185b03d" absoluteBounds="3.5, 1.125, 2, 1.5785953776041664">
+      <DataClassMoniker Name="/LightningDbDataContext/tblPicture" />
+      <nestedChildShapes>
+        <elementListCompartment Id="db8d03e4-0631-49b1-b393-63a1bf1f0139" absoluteBounds="3.515, 1.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1f6ba37f-f803-4b21-ac37-24fb896b731d" absoluteBounds="0.75, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LightningDbDataContext/tblStrike" />
+      <nestedChildShapes>
+        <elementListCompartment Id="be78498c-ef9b-4149-9433-2e5a61eb7423" absoluteBounds="0.765, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.91429768880208); (3.5 : 1.91429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LightningDbDataContext/tblStrike/tblStrike_tblPicture" />
+      <nodes>
+        <classShapeMoniker Id="1f6ba37f-f803-4b21-ac37-24fb896b731d" />
+        <classShapeMoniker Id="6d33be4e-a2f1-45cd-a451-5434b185b03d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
