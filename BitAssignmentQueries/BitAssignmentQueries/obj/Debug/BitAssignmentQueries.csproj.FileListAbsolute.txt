@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\BitAssignmentQueries\BitAssignmentQueries\bin\Debug\BitAssignmentQueries.exe.config
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\BitAssignmentQueries\BitAssignmentQueries\bin\Debug\BitAssignmentQueries.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\BitAssignmentQueries\BitAssignmentQueries\bin\Debug\BitAssignmentQueries.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\BitAssignmentQueries\BitAssignmentQueries\obj\Debug\BitAssignmentQueries.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\BitAssignmentQueries\BitAssignmentQueries\obj\Debug\BitAssignmentQueries.Form1.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\BitAssignmentQueries\BitAssignmentQueries\obj\Debug\BitAssignmentQueries.Properties.Resources.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\BitAssignmentQueries\BitAssignmentQueries\obj\Debug\BitAssignmentQueries.csproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\BitAssignmentQueries\BitAssignmentQueries\obj\Debug\BitAssignmentQueries.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\BitAssignmentQueries\BitAssignmentQueries\obj\Debug\BitAssignmentQueries.pdb

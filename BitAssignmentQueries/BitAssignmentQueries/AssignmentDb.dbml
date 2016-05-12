@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="IN700001_201601_CRAIA4" Class="AssignmentDbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=bitdev.ict.op.ac.nz;Initial Catalog=IN700001_201601_CRAIA4;User ID=craia4" SettingsObjectName="BitAssignmentQueries.Properties.Settings" SettingsPropertyName="IN700001_201601_CRAIA4ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblTutor" Member="tblTutors">
+    <Type Name="tblTutor">
+      <Column Name="tutorID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="Char(20) NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="Char(30) NOT NULL" CanBeNull="false" />
+      <Association Name="tblTutor_tblPaper" Member="tblPapers" ThisKey="tutorID" OtherKey="paperTutorId" Type="tblPaper" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblAssignment" Member="tblAssignments">
+    <Type Name="tblAssignment">
+      <Column Name="assignmentID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="paperCode" Type="System.String" DbType="Char(20) NOT NULL" CanBeNull="false" />
+      <Column Name="assignmentName" Type="System.String" DbType="Char(40) NOT NULL" CanBeNull="false" />
+      <Column Name="dateDue" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="tblAssignment_tblMark" Member="tblMarks" ThisKey="assignmentID" OtherKey="assignmentID" Type="tblMark" />
+      <Association Name="tblPaper_tblAssignment" Member="tblPaper" ThisKey="paperCode" OtherKey="paperCode" Type="tblPaper" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblMark" Member="tblMarks">
+    <Type Name="tblMark">
+      <Column Name="markID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="assignmentID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="grade" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="tblAssignment_tblMark" Member="tblAssignment" ThisKey="assignmentID" OtherKey="assignmentID" Type="tblAssignment" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblPaper" Member="tblPapers">
+    <Type Name="tblPaper">
+      <Column Name="paperCode" Type="System.String" DbType="Char(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="paperName" Type="System.String" DbType="Char(50) NOT NULL" CanBeNull="false" />
+      <Column Name="paperTutorId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="tblPaper_tblAssignment" Member="tblAssignments" ThisKey="paperCode" OtherKey="paperCode" Type="tblAssignment" />
+      <Association Name="tblTutor_tblPaper" Member="tblTutor" ThisKey="paperTutorId" OtherKey="tutorID" Type="tblTutor" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

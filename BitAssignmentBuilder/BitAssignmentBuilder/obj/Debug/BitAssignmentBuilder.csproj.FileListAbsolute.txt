@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2015\Projects\BitAssignmentBuilder\BitAssignmentBuilder\bin\Debug\BitAssignmentBuilder.exe.config
+C:\Users\Alan\documents\visual studio 2015\Projects\BitAssignmentBuilder\BitAssignmentBuilder\bin\Debug\BitAssignmentBuilder.exe
+C:\Users\Alan\documents\visual studio 2015\Projects\BitAssignmentBuilder\BitAssignmentBuilder\bin\Debug\BitAssignmentBuilder.pdb
+C:\Users\Alan\documents\visual studio 2015\Projects\BitAssignmentBuilder\BitAssignmentBuilder\obj\Debug\BitAssignmentBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alan\documents\visual studio 2015\Projects\BitAssignmentBuilder\BitAssignmentBuilder\obj\Debug\BitAssignmentBuilder.Form1.resources
+C:\Users\Alan\documents\visual studio 2015\Projects\BitAssignmentBuilder\BitAssignmentBuilder\obj\Debug\BitAssignmentBuilder.Properties.Resources.resources
+C:\Users\Alan\documents\visual studio 2015\Projects\BitAssignmentBuilder\BitAssignmentBuilder\obj\Debug\BitAssignmentBuilder.csproj.GenerateResource.Cache
+C:\Users\Alan\documents\visual studio 2015\Projects\BitAssignmentBuilder\BitAssignmentBuilder\obj\Debug\BitAssignmentBuilder.exe
+C:\Users\Alan\documents\visual studio 2015\Projects\BitAssignmentBuilder\BitAssignmentBuilder\obj\Debug\BitAssignmentBuilder.pdb

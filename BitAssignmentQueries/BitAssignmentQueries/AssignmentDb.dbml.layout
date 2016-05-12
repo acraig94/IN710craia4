@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.25, 8.5" name="AssignmentDb">
+  <DataContextMoniker Name="/AssignmentDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5a925c2b-dfe0-421b-957f-572d566f84dd" absoluteBounds="0.75, 1, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AssignmentDbDataContext/tblTutor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="435526c8-9720-414e-b2c9-dafe96862d5b" absoluteBounds="0.765, 1.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bb5fe729-6096-40b7-a766-eee2c8d01043" absoluteBounds="6.25, 0.875, 2, 1.5785953776041664">
+      <DataClassMoniker Name="/AssignmentDbDataContext/tblAssignment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="746d57c5-5c85-43c5-98a3-58506085937b" absoluteBounds="6.265, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="24a051a7-322c-444e-9046-699f3f8abb93" absoluteBounds="9, 1, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AssignmentDbDataContext/tblMark" />
+      <nestedChildShapes>
+        <elementListCompartment Id="be0bdf21-19bf-465e-afc8-e8cad822ce1a" absoluteBounds="9.015, 1.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f23bbceb-e5f3-4b43-b51c-69ae561952f3" absoluteBounds="3.5, 1, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AssignmentDbDataContext/tblPaper" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b0e07f2f-1ba2-4bb1-a6c6-17b880a86f4b" absoluteBounds="3.515, 1.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.25 : 1.69314697265625); (9 : 1.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AssignmentDbDataContext/tblAssignment/tblAssignment_tblMark" />
+      <nodes>
+        <classShapeMoniker Id="bb5fe729-6096-40b7-a766-eee2c8d01043" />
+        <classShapeMoniker Id="24a051a7-322c-444e-9046-699f3f8abb93" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.69314697265625); (6.25 : 1.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AssignmentDbDataContext/tblPaper/tblPaper_tblAssignment" />
+      <nodes>
+        <classShapeMoniker Id="f23bbceb-e5f3-4b43-b51c-69ae561952f3" />
+        <classShapeMoniker Id="bb5fe729-6096-40b7-a766-eee2c8d01043" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.69314697265625); (3.5 : 1.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AssignmentDbDataContext/tblTutor/tblTutor_tblPaper" />
+      <nodes>
+        <classShapeMoniker Id="5a925c2b-dfe0-421b-957f-572d566f84dd" />
+        <classShapeMoniker Id="f23bbceb-e5f3-4b43-b51c-69ae561952f3" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
