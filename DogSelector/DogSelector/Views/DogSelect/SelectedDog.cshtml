@@ -1,0 +1,18 @@
+﻿@model DogSelector.Models.Dog
+
+@{
+    ViewBag.Title = "SelectedDog";
+}
+
+<h1>@Model.DisplayName</h1>
+<img src="~/DogImages/@Model.ImageName" alt="Alternate Text" />
+<p>Breed Name: @Model.BreedName</p>
+<p>Activity Level: @Model.ActivityLevel</p>
+<p>Shedding Level: @Model.SheddingLevel</p>
+<p>Grooming Level: @Model.GroomingLevel</p>
+<p>Intelligence Level: @Model.IntelligenceLevel</p>
+<p>Coat Length: @Model.Coatlength</p>
+<p>Size: @Model.Size</p>
+<p>Good With Children: @Model.GoodWithChildren</p>
+<p>Drools: @Model.Drools</p>
+<p>@Model.Points</p>

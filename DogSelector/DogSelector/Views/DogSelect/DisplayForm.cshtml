@@ -1,0 +1,80 @@
+﻿@model DogSelector.Models.Dog
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>NewDogForm</title>
+</head>
+<body>
+    <div>
+        <form action="NewDogForm" method="post">
+            <p>Must be good with children</p>
+            <input type="radio" name="GoodWithChildren" value="true"> Yes<br>
+            <input type="radio" name="GoodWithChildren" value="false"> No<br>
+            <br>
+            <p>Drooling</p>
+            <input type="radio" name="Drools" value="true"> No Slobbering<br>
+            <input type="radio" name="Drools" value="false"> Don't Mind<br>
+            <br>
+            <p>Must be good with children</p>
+            <input type="radio" name="Coatlength" value="Short"> Short<br>
+            <input type="radio" name="Coatlength" value="Medium"> Medium<br>
+            <input type="radio" name="Coatlength" value="Long"> Long<br>
+            <br>
+            <p>Preferences</p>
+            <table>
+                <tr>
+                    <th></th>
+                    <th>Low</th>
+                    <th>Medium</th>
+                    <th>High</th>
+                    <th>No Preference</th>
+                </tr>
+                <tr>
+                    <td>Activity Level</td>
+                    <td><input type="radio" name="ActivityLevel" value="Low"></td>
+                    <td><input type="radio" name="SheddingLevel" value="Medium"></td>
+                    <td><input type="radio" name="GroomingLevel" value="High"></td>
+                    <td><input type="radio" name="IntelligenceLevel" value="nopreference"></td>
+                </tr>
+                <tr>
+                    <td>Shedding Level</td>
+                    <td><input type="radio" name="ActivityLevel" value="Short"></td>
+                    <td><input type="radio" name="SheddingLevel" value="Medium"></td>
+                    <td><input type="radio" name="GroomingLevel" value="High"></td>
+                    <td><input type="radio" name="IntelligenceLevel" value="nopreference"></td>
+                </tr>
+                <tr>
+                    <td>Grooming Level</td>
+                    <td><input type="radio" name="ActivityLevel" value="Low"></td>
+                    <td><input type="radio" name="SheddingLevel" value="Medium"></td>
+                    <td><input type="radio" name="GroomingLevel" value="High"></td>
+                    <td><input type="radio" name="IntelligenceLevel" value="nopreference"></td>
+                </tr>
+                <tr>
+                    <td>Intelligence Level</td>
+                    <td><input type="radio" name="ActivityLevel" value="Short"></td>
+                    <td><input type="radio" name="sheddinglevel" value="Medium"></td>
+                    <td><input type="radio" name="GroomingLevel" value="High"></td>
+                    <td><input type="radio" name="IntelligenceLevel" value="nopreference"></td>
+                </tr>
+            </table>
+            <br>
+            <select name="Size">
+                <option value="Small">Small</option>
+                <option value="Medium">Medium</option>
+                <option value="Large">Large</option>
+            </select>
+            <input type="submit" value="Add New Dog" />
+
+        </form>
+
+    </div>
+
+</body>
+</html>
+
+
+
